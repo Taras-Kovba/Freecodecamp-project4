@@ -56,7 +56,9 @@ code{background-color: grey;}
 				position: static;
 				margin-bottom:0px;
 				padding:0px;
-				margin-left:0px;			
+				margin-left:0px;
+		border-top:5px solid black;
+			border-bottom:5px solid black;
 	}
 	#nav-bar header{text-align: center;}
 
