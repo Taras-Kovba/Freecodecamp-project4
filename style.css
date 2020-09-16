@@ -12,7 +12,7 @@ code{background-color: grey;}
 			flex-direction: column;
 			text-decoration: none;
 			border: 5px solid black;
-			max-width:98%;
+			max-width:98.4%;
 			margin-bottom:1000px;
 			padding:10px;
 			position:fixed;
@@ -43,11 +43,11 @@ code{background-color: grey;}
 
 #padding{margin-top:50px;}
 
-#flexbox{margin-left:0px;
+#flexbox{margin-left:270px;
 			margin-top:30px;
 }
 
-#grid{margin-left:0px;
+#grid{margin-left:270px;
 		margin-top:30px;
 }
 
@@ -65,6 +65,10 @@ code{background-color: grey;}
 	  				  padding:3px;
 	}
 	li{list-style: none;}
+
+	#flexbox{margin:0px;}
+
+	#grid{margin:0px;}
 }
 
 section:last-child{padding-bottom:20px;}
